@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/0abcc36173d94ccd909236e94d6dc4be/artifacts
+end_time: 1765744660590
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0abcc36173d94ccd909236e94d6dc4be
+run_name: classy-grub-414
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765744654669
+status: 3
+tags: []
+user_id: codespace
