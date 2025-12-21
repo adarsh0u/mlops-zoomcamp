@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/2814028656a04a29bd955b42d50f0027/artifacts
+end_time: 1765967317493
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2814028656a04a29bd955b42d50f0027
+run_name: intrigued-hen-166
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765967311658
+status: 3
+tags: []
+user_id: codespace

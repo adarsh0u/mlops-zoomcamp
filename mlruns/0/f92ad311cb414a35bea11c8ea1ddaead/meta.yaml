@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/f92ad311cb414a35bea11c8ea1ddaead/artifacts
+end_time: 1765968199499
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f92ad311cb414a35bea11c8ea1ddaead
+run_name: whimsical-moose-723
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765968001873
+status: 4
+tags: []
+user_id: codespace

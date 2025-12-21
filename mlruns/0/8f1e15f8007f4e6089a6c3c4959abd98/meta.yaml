@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/8f1e15f8007f4e6089a6c3c4959abd98/artifacts
+end_time: 1765967169320
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8f1e15f8007f4e6089a6c3c4959abd98
+run_name: skillful-jay-819
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765967163445
+status: 3
+tags: []
+user_id: codespace
